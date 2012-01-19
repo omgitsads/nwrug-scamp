@@ -1,3 +1,6 @@
-source "http://rubygems.org"
-
-gem "showoff"
+source :rubygems
+gem 'bluecloth'
+gem 'nokogiri'
+gem 'showoff'
+gem 'gli'
+gem 'heroku'
