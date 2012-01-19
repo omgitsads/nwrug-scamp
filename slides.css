@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'MuseoSlab500';
+    src: url('/file/font/Museo_Slab_500-webfont.eot');
+    src: url('/file/font/Museo_Slab_500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/file/font/Museo_Slab_500-webfont.woff') format('woff'),
+         url('/file/font/Museo_Slab_500-webfont.ttf') format('truetype'),
+         url('/file/font/Museo_Slab_500-webfont.svg#MuseoSlab500') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  font-family: 'MuseoSlab500';
+}
+
+#title {
+  background-color: #E9EFEF;
+}
+
+#api {
+  background-color: #EDEFC3;
+}
+
+.sh_sourceCode {
+  background-color: #F0F0F0;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  border: 7px solid #949494;
+}
+
+#adapters {
+  background-color: #BFDADA;
+}
+
+#plugins {
+  background-color: #F4DFCA;
+}
+
+#resources {
+  background-color: #DEF4CF;
+}
