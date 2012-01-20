@@ -4,7 +4,7 @@
 
 <!SLIDE center #title>
 
-## SRLY?
+![srsly?](srsly.jpg)
 
 <!SLIDE center #title>
 
